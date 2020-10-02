@@ -84,7 +84,7 @@
         },
         {},
         {
-          "label": "Rhestr allweddair"
+          "label": "Rhestr geiriau allweddol"
         },
         {
           "label": "Wastad yn weledig"
@@ -141,72 +141,72 @@
           "default": "Dangos datrysiadau"
         },
         {
-          "label": "Text for the retry button",
-          "default": "Retry"
+          "label": "Testun ar gyfer y botwm ailgeisio",
+          "default": "Ailgeisio"
         },
         {
-          "label": "Text for the export text button",
-          "default": "Export text"
+          "label": "Testun ar gyfer y botwm allforio testun",
+          "default": "Allforio testun"
         },
         {
-          "label": "Hide keywords list button title",
-          "default": "Hide keywords list"
+          "label": "Teitl y botwm ar gyfer cuddio rhestr geiriau allweddol",
+          "default": "Cuddio rhestr geiriau allweddol"
         },
         {
-          "label": "Show keywords list button title",
-          "default": "Show keywords list"
+          "label": "Teitl y botwm ar gyfer dangos rhestr geiriau allweddol",
+          "default": "Dangos rhestr geiriau allweddol"
         },
         {
-          "label": "Fullscreen label",
-          "default": "Fullscreen"
+          "label": "Label ar gyfer sgrin lawn",
+          "default": "Sgrin lawn"
         },
         {
-          "label": "Exit fullscreen label",
-          "default": "Exit fullscreen"
+          "label": "Label ar gyfer diffodd sgrin lawn",
+          "default": "Diffodd sgrin lawn"
         },
         {
-          "label": "Previous slide label",
-          "default": "Previous slide"
+          "label": "Label sleid blaenorol",
+          "default": "Sleid blaenorol"
         },
         {
-          "label": "Next slide label",
-          "default": "Next slide"
+          "label": "Label sleid nesaf",
+          "default": "Sleid nesaf"
         },
         {
           "label": "Current slide label",
           "default": "Current slide"
         },
         {
-          "label": "Last slide label",
-          "default": "Last slide"
+          "label": "Label sleid olaf",
+          "default": "Sleid olaf"
         },
         {
-          "label": "Exit solution mode text",
-          "default": "Exit solution mode"
+          "label": "Testun ar gyfer diffodd y nodwedd datrysiad",
+          "default": "Diffodd y nodwedd datrysiad"
         },
         {
-          "label": "Solution mode text",
-          "default": "Solution Mode"
+          "label": "Testun ar gyfer nodwedd datrysiadau",
+          "default": "Nodwedd Datrysiadau"
         },
         {
-          "label": "Text when multiple tasks on a page",
-          "default": "Multiple tasks"
+          "label": "Testun pan fydd sawl tasg ar y dudalen",
+          "default": "Sawl tasg"
         },
         {
-          "label": "Score message text",
-          "default": "You achieved:"
+          "label": "Testun neges sgôr",
+          "default": "Fe gyflawnoch:"
         },
         {
-          "label": "Share to Facebook text",
-          "default": "Share on Facebook"
+          "label": "Testun rhannu ar Facebook",
+          "default": "Rhannu ar Facebook"
         },
         {
-          "label": "Share to Twitter text",
-          "default": "Share on Twitter"
+          "label": "Testun rhannu ar Twitter",
+          "default": "Rhannu ar Twitter"
         },
         {
-          "label": "Share to Google text",
-          "default": "Share on Google+"
+          "label": "Testun rhannu ar Google",
+          "default": "Rhannu ar Google+"
         },
         {
           "label": "Title for summary slide",
