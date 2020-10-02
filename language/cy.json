@@ -137,8 +137,8 @@
           "default": "Cyfanswm Sgôr"
         },
         {
-          "label": "Title for show solutions button",
-          "default": "Show solutions"
+          "label": "Teitl ar gyfer dangos botwm datrysiadau",
+          "default": "Dangos datrysiadau"
         },
         {
           "label": "Text for the retry button",
