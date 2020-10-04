@@ -141,11 +141,11 @@
           "default": "Dangos datrysiadau"
         },
         {
-          "label": "Testun ar gyfer y botwm ailgeisio",
+          "label": "Testun y botwm ailgeisio",
           "default": "Ailgeisio"
         },
         {
-          "label": "Testun ar gyfer y botwm allforio testun",
+          "label": "Testun y botwm allforio testun",
           "default": "Allforio testun"
         },
         {
@@ -165,16 +165,16 @@
           "default": "Diffodd sgrin lawn"
         },
         {
-          "label": "Label sleid blaenorol",
-          "default": "Sleid blaenorol"
+          "label": "Label sleid flaenorol",
+          "default": "Sleid flaenorol"
         },
         {
           "label": "Label sleid nesaf",
           "default": "Sleid nesaf"
         },
         {
-          "label": "Current slide label",
-          "default": "Current slide"
+          "label": "Label sleid gyfredol",
+          "default": "Sleid gyfredol"
         },
         {
           "label": "Label sleid olaf",
@@ -209,32 +209,32 @@
           "default": "Rhannu ar Google+"
         },
         {
-          "label": "Title for summary slide",
-          "default": "Summary"
+          "label": "Teitl y sleid grynhoi",
+          "default": "Crynodeb"
         },
         {
-          "label": "Title for the comments icon",
-          "default": "Show comments"
+          "label": "Teitl yr eicon sylwadau",
+          "default": "Dangos sylwadau"
         },
         {
-          "label": "Title for print button",
-          "default": "Print"
+          "label": "Teitl y botwm argraffu",
+          "default": "Argraffu"
         },
         {
-          "label": "Print dialog ingress",
-          "default": "How would you like to print this presentation?"
+          "label": "Mynediad i'r deialog argraffu",
+          "default": "Sut hoffech chi argraffu'r cyflwyniad hwn?"
         },
         {
-          "label": "Label for \"Print all slides\" button",
-          "default": "Print all slides"
+          "label": "Label y botwm \"Argraffu pob sleid\"",
+          "default": "Argraffu pob sleid"
         },
         {
-          "label": "Label for \"Print current slide\" button",
-          "default": "Print current slide"
+          "label": "Label y botwm \"Argraffu'r sleid gyfredol\"",
+          "default": "Argraffu sleid gyfredol"
         },
         {
-          "label": "Label for slides without a title",
-          "default": "No title"
+          "label": "Label sleidiau heb deitl",
+          "default": "Heb deitl"
         },
         {
           "label": "Explanation of slide navigation for assistive technologies",
@@ -352,30 +352,30 @@
               ]
             },
             {
-              "label": "Display Twitter share icon"
+              "label": "Dangos eicon rhannu Twitter"
             },
             {
-              "label": "Twitter share settings",
+              "label": "Gosodiadau rhannu Twitter",
               "fields": [
                 {
-                  "label": "Share to Twitter statement",
-                  "default": "I scored @score out of @maxScore on a task at @currentpageurl."
+                  "label": "Rhannu i ddatganiad Twitter",
+                  "default": "Sgoriais @score allan o @maxScore mewn tasg ar @currentpageurl."
                 },
                 {
-                  "label": "Share to Twitter link",
+                  "label": "Rhannu i ddolen Twitter",
                   "default": "@currentpageurl"
                 },
                 {
-                  "label": "Share to Twitter hashtags",
-                  "default": "h5p, course"
+                  "label": "Rhanni i glwyd-dagiau Twitter",
+                  "default": "h5p, cwrs"
                 }
               ]
             },
             {
-              "label": "Display Google+ share icon"
+              "label": "Dangos eicon rhannu Google+"
             },
             {
-              "label": "Share to Google link",
+              "label": "Rhanni i ddolen Google",
               "default": "@currentpageurl"
             }
           ]
